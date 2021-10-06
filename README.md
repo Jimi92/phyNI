@@ -3,7 +3,7 @@
 ##	Use this pipeline to 1) blast sequences in a directory 									                 ##
 ##						           2)	created overview and aligned fasta files with the results		     ##
 ##						           3)	Create a ML tree with  all queries with RAxML(Stamatakis 2014)	 ##
-##	Developed by Demetris Taliadoros, last update: 14/08/2021								                 ##
+##	                                                                   						                 ##
 ##>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>##
 
 Edit the master_script.sh file to add the software and assembly paths (edit the part of the script that looks like the example below)
