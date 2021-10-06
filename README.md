@@ -15,6 +15,8 @@ B) From the downloaded file copy the two Master_script.sh and the NCBI_apply_cri
 
 B1) With a text editor edit the Master_script.sh to give the paths to the software and the assemblies (edit the part of the script that looks like the block below)
 
+
+
 ##############    PATHS   ###############
 
 # Path to blastn
