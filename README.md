@@ -1,10 +1,6 @@
+Phyni pipeline 
 
-##>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>##
-##	Use this pipeline to  1) blast sequences in a directory 									               ##
-##						            2)	created overview and aligned fasta files with the results		   ##
-##						            3)	Create a ML tree with  all queries with RAxML(Stamatakis 2014) ##
-##	Developed by Demetris Taliadoros, last update: 14/08/2021					                 			 ##
-##>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>>><<<>##
+Use this pipeline to 1) blast sequences in a directory, 2) create overview and aligned sequence fasta with the blast results, 3) create a ML tree with all queries
 
 
 >>><<<>>><<<>>><<<>>><<< Instructions >>><<<>>><<<>>><<<>>><<<>>><<<>>
