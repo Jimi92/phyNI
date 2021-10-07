@@ -3,7 +3,7 @@
 Use this pipeline to 1) blast sequences in a directory, 2) create overview and aligned sequence fasta with the blast results, 3) create a ML tree with all queries
 
 
->>><<<>>><<<>>><<<>>><<< Instructions >>><<<>>><<<>>><<<>>><<<>>><<<>>
+#>>><<<>>><<<>>><<<>>><<< Instructions >>><<<>>><<<>>><<<>>><<<>>><<<>>
 
 A) Open a terminal and paste this: git clone git@github.com:Jimi92/phylo-of-natural-isolates.git
 
@@ -41,7 +41,7 @@ out_files = glob.glob("/ADD/PATH/HERE/*.txt")
 
 The script will create four new folders
 
-home_path/done_fasta      -->   The fasta that have been blasted are here
+home_path/done_fasta      -->   The fasta that have been processed already (blasted) are here
 
 home_path/results         -->   Raw blast results are temporarily stored here
 
