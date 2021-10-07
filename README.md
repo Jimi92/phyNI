@@ -9,7 +9,7 @@ A) Open a terminal and paste this: git clone git@github.com:Jimi92/phylo-of-natu
 
 B) From the downloaded file copy the two scripts (Master_script.sh and the NCBI_apply_criteria.py) to the file with the assemblies
 
-B1) With a text editor edit the Master_script.sh to give the paths to the software and the assemblies (edit the part of the script that looks like the block below)
+--> B1) With a text editor edit the Master_script.sh to give the paths to the software and the assemblies (edit the part of the script that looks like the block below)
 
 
 
@@ -32,7 +32,7 @@ home_path=/ADD/Assemblie/folder_HERE/
 RAxML_soft=/ADD/Assemblie/folder_HERE/
 
 
-B2) ith a text editor edit the NCBI_apply_criteria.py to give the paths to the software and the assemblies (edit the part of the script that looks like the block below)
+--> B2) ith a text editor edit the NCBI_apply_criteria.py to give the paths to the software and the assemblies (edit the part of the script that looks like the block below)
 
 out_files = glob.glob("/ADD/PATH/HERE/*.txt")
 
