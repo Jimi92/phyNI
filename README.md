@@ -5,7 +5,7 @@ Use this pipeline to 1) blast sequences in a directory, 2) create overview and a
 
 -------------------------------------------------- Instructions -----------------------------------------------------
 
-A) Open a terminal and paste this: git clone git@github.com:Jimi92/phylo-of-natural-isolates.git
+A) Open a terminal and paste this: git clone git@github.com:Jimi92/phyNI.git
 
 B) From the downloaded file copy the two scripts (Master_script.sh and the NCBI_apply_criteria.py) to the file with the assemblies
 
