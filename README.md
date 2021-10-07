@@ -1,4 +1,4 @@
-# Phyni pipeline 
+# PhyNI pipeline 
 
 Use this pipeline to 1) blast sequences in a directory, 2) create overview and aligned sequence fasta with the blast results, 3) create a ML tree with all queries
 
