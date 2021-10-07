@@ -15,16 +15,16 @@ B1) With a text editor edit the Master_script.sh to give the paths to the softwa
 
 ##############    PATHS   ###############
 
-# Path to blastn
+/# Path to blastn
 blastn_soft=/ADD/BLAST+/folder_HERE/
 
-# Path to assemblies
+/# Path to assemblies
 home_path=/ADD/Assemblie/folder_HERE/
 
-# Path to MAFFT
-#MAFFT_soft=/ADD/MAFFT/DIR_HERE/
+/# Path to MAFFT
+/#MAFFT_soft=/ADD/MAFFT/DIR_HERE/
 
-# Path to RAxML
+/# Path to RAxML
 RAxML_soft=/ADD/Assemblie/folder_HERE/
 
 
