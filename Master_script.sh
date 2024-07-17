@@ -144,3 +144,4 @@ mafft --auto all_query.fasta > all_query.fasta.algn
 
 # Create ML tree with RAxML
 ${RAxML_soft} -s all_query.fasta.algn -n all_query_ML_tree -m GTRCAT
+echo "All done Cpt. Jimmy"
