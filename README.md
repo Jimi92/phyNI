@@ -4,7 +4,7 @@ Use this pipeline to 1) blast sequences in a directory, 2) create overview and a
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Instructions
+## Instructions
 
 A) Open a terminal and paste this: git clone git@github.com:Jimi92/phyNI.git
 
