@@ -38,7 +38,7 @@ RAxML_soft=/ADD/Assemblie/folder_HERE/
 out_files = glob.glob("/ADD/PATH/HERE/*.txt")
 
 ----------------------------------------------------------------------------------------------------------
-
+## Output
 
 The script will create four new folders
 
